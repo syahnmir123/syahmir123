@@ -8,6 +8,6 @@
 </p>
   
   ![Follower Badge](https://img.shields.io/github/followers/syahmir123)
-  ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+  ![](https://visitor-badge.glitch.me/badge?page_id=syahmir123)
 
 </details>
